@@ -5,6 +5,9 @@ Para executar
 
 python3 DDPG.py
 
+
+
+
 Dependências:
 
 TensorFlow 
