@@ -4,10 +4,6 @@ import numpy as np
 import os
 import shutil
 from car_env import CarEnv
-import matplotlib.pyplot as plt
-
-fig = plt.figure()
-ax = fig.gca()
 
 np.random.seed(1)
 tf.set_random_seed(1)
